@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/happyrajput/AI%3AML/MLPROJECT/mlruns/0/8c81461086ad4d249caaa6a75abe10d2/artifacts
+end_time: 1739996337738
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c81461086ad4d249caaa6a75abe10d2
+run_name: victorious-bird-282
+run_uuid: 8c81461086ad4d249caaa6a75abe10d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739996335303
+status: 4
+tags: []
+user_id: happyrajput
